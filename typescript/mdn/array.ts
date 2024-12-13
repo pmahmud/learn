@@ -105,9 +105,9 @@ console.log(array6.fill(6));
 
 let words = ['spray', 'elite', 'exuberant', 'destruction', 'present'];
 
-const result = words.filter((word) => word.length > 6);
+const result2 = words.filter((word) => word.length > 6);
 
-console.log(result);
+console.log(result2);
 // Expected output: Array ["exuberant", "destruction", "present"]
 
 // ----------------------------------------------------------------------------
